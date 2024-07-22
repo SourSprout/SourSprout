@@ -1,8 +1,34 @@
-Mixed Licensing
+### Licensing Document Statement for Mixed Copyright Resources
 
+---
 
+Jennifer Lees / Sour Sprout Assets Library: Licensing Document for Mixed Copyright Resources
 
+---
 
+#### Introduction
+This licensing document outlines the terms and conditions for the use of mixed copyright resources incorporated within Sour Sprout design libraries and repositories. These resources include but are not limited to text, images, audio, video, software, and other multimedia content created by various copyright holders. 
+
+#### Ownership and Copyright
+All original content within the Sour Sprout design libraries and repositories are protected under copyright law. The respective copyright owners retain all rights to their individual works. This document does not transfer any ownership rights. Users must respect the intellectual property rights of each creator and adhere to the specific licensing terms provided herein.
+
+#### Third-Party Resources
+Some resources may be licensed from third parties and are subject to additional terms and conditions. Users must comply with all terms provided by these third-party licensors, which will be clearly indicated alongside the respective resources.
+
+#### Contact Information
+For permissions beyond the scope of this license or any inquiries regarding the use of mixed copyright resources, please contact:
+
+Jennifer Lees
+UX Design
+Jennifer.D.Lees@gmail.com
+
+---
+
+**Copyright Holders**: Please contact us if you believe any of your copyrighted materials have been used inappropriately or without proper authorization. We are committed to resolving any issues promptly and respectfully.
+
+---
+
+This licensing document is intended to ensure the lawful use of mixed copyright resources while respecting the rights of the original creators. Please review and comply with all terms outlined in this document.
 =======================================================================
 
 CC BY-NC 4.0
@@ -18,11 +44,12 @@ https://creativecommons.org/licenses/by-nc/4.0/
 Marking Work
 If you are licensing or marking one work, paste the code next to it. If you are licensing or marking the whole page or blog, you can paste the code at the bottom of the page.
 
-Website: Sour Sprout Design Visualizations Library © 2024 by Jennifer Lees is licensed under CC BY-NC 4.0 
-Website (long): Sour Sprout Design Visualizations Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
+Website: Sour Sprout Design Library © 2024 by Jennifer Lees is licensed under CC BY-NC 4.0 
+Website (long): Sour Sprout Design Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International 
 
-Print Work or Media: Sour Sprout Design Visualizations Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
-Print Work or Media (long): Sour Sprout Design Visualizations Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+Print Work or Media: Sour Sprout Design Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+
+Print Work or Media (long): Sour Sprout Design Library © 2024 by Jennifer Lees is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
 =======================================================================
 
@@ -119,6 +146,7 @@ Section 1 -- Definitions.
      categorized. For purposes of this Public License, the rights
      specified in Section 2(b)(1)-(2) are not Copyright and Similar
      Rights.
+     
   d. Effective Technological Measures means those measures that, in the
      absence of proper authority, may not be circumvented under laws
      fulfilling obligations under Article 11 of the WIPO Copyright
